@@ -15,8 +15,7 @@ This project implements a computer vision pipeline for detecting musical symbols
 
 ## Files
 - `Music_sheet_detector.ipynb`: Main Jupyter notebook containing the full image processing pipeline  
-- `sample_sheet.jpg`: Example input image used for testing the detector  
-- `README.md`: Project overview and usage instructions  
+- `sample_sheet.jpg`: Example input image used for testing the detector   
 
 ## Requirements
 - numpy  
