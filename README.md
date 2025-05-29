@@ -1,4 +1,4 @@
-# Music Sheet Detector
+# Sheet Music Sight-Reader
 
 This project implements a computer vision pipeline for detecting musical symbols from a scanned or photographed music sheet. It is part of the ROB-UY 3203 Robot Vision course project.
 
